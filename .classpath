@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="DAW1-ED-Pruebas-Ejemplo2-master/src"/>
+	<classpathentry kind="src" path="DAW1-ED-Pruebas-Ejemplo2-master/test"/>
+	<classpathentry kind="lib" path="DAW1-ED-Pruebas-Ejemplo2-master/lib/ant-contrib-1.0b3.jar"/>
+	<classpathentry kind="lib" path="DAW1-ED-Pruebas-Ejemplo2-master/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="DAW1-ED-Pruebas-Ejemplo2-master/lib/jacocoant.jar"/>
+	<classpathentry kind="lib" path="DAW1-ED-Pruebas-Ejemplo2-master/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="DAW1-ED-Pruebas-Ejemplo2-master/lib/sonarqube-ant-task-2.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
